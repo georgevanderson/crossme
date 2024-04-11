@@ -63,5 +63,8 @@
       "Session": false,
       "$": false
     }
+  },
+  "engines": {
+    "node": "10.14.1"
   }
 }
